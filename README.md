@@ -74,3 +74,7 @@ ollama serve
 ## License
 
 MIT
+
+---
+
+<sub>**Disclaimer:** All references to real persons (tech CEOs, company leaders, etc.) are purely satirical and intended for humorous purposes only. This project is a parody and is not affiliated with, endorsed by, or connected to any individuals or companies mentioned. No actual yachts were harmed in the making of this app.</sub>

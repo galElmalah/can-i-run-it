@@ -381,6 +381,9 @@ export default function App() {
         This runs entirely in your browser. Model data is curated and may not reflect the latest Ollama library.
         Memory estimates are approximate.
       </p>
+      <p className="footerNote" style={{ marginTop: 8, opacity: 0.5, fontSize: 10 }}>
+        All references to tech CEOs are satirical and for humor only. We're not affiliated with any of them (and they definitely don't know we exist).
+      </p>
     </div>
   );
 }
