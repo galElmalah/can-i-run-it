@@ -499,6 +499,10 @@ kbd {
   background: var(--green);
 }
 
+.chipAccent[aria-pressed='true'] {
+  background: var(--pink);
+}
+
 .divider {
   height: 2px;
   background: var(--ink);

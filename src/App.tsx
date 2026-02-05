@@ -94,6 +94,7 @@ export default function App() {
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState<Category>('all');
   const [sortKey, setSortKey] = useState<SortKey>('popularity');
+  const [runnableOnly, setRunnableOnly] = useState(false);
 
   // Fun rotating CTA
   const [ceoIdx, setCeoIdx] = useState(0);
@@ -133,12 +134,17 @@ export default function App() {
     const ramGB = effectiveRamGB;
     const isMobile = info?.isMobile;
 
-    const enriched = filteredModels.map((m) => ({
+    let enriched = filteredModels.map((m) => ({
       model: m,
       popularity: parsePullsNumeric(m.pulls),
       maxParamsB: getMaxParamsB(m.variants),
       maxRunnableParamsB: getMaxRunnableParamsB({ variants: m.variants, ramGB, isMobile }),
     }));
+
+    // Filter to only runnable models if toggle is on
+    if (runnableOnly) {
+      enriched = enriched.filter((e) => e.maxRunnableParamsB !== null);
+    }
 
     enriched.sort((a, b) => {
       switch (sortKey) {
@@ -157,7 +163,7 @@ export default function App() {
     });
 
     return enriched.map((e) => e.model);
-  }, [effectiveRamGB, filteredModels, info?.isMobile, sortKey]);
+  }, [effectiveRamGB, filteredModels, info?.isMobile, runnableOnly, sortKey]);
 
   // Category counts
   const categoryCounts = useMemo(() => {
@@ -254,6 +260,15 @@ export default function App() {
               </button>
             );
           })}
+          <button
+            type="button"
+            className="chip chipAccent"
+            aria-pressed={runnableOnly}
+            onClick={() => setRunnableOnly((v) => !v)}
+            title="Show only models that can run on your machine"
+          >
+            Can run
+          </button>
         </div>
 
         <div className="field" style={{ marginTop: 10, maxWidth: 320 }}>
@@ -283,7 +298,11 @@ export default function App() {
       {sortedModels.length === 0 ? (
         <div className="emptyState">
           <h3>No models found</h3>
-          <p>Try a different search term or category.</p>
+          <p>
+            {runnableOnly
+              ? 'No models can run with your current RAM. Try increasing your RAM or disable the "Can run" filter.'
+              : 'Try a different search term or category.'}
+          </p>
         </div>
       ) : (
         <div className="modelGrid">
