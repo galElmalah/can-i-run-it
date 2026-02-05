@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Can I Run It icon">
+  <rect
+    x="10"
+    y="10"
+    width="108"
+    height="108"
+    rx="22"
+    fill="#FFE200"
+    stroke="#151515"
+    stroke-width="8"
+  />
+  <g transform="translate(64 64) rotate(-12) translate(-64 -64)">
+    <rect
+      x="18"
+      y="40"
+      width="92"
+      height="48"
+      rx="16"
+      fill="#FF2DB2"
+      stroke="#151515"
+      stroke-width="8"
+    />
+    <path
+      d="M40 66 L55 80 L89 50"
+      fill="none"
+      stroke="#14F195"
+      stroke-width="10"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+  </g>
+</svg>
+
