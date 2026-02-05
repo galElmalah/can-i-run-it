@@ -1,8 +1,17 @@
 # Can I Run It? (Ollama Edition)
 
-A **neo-brutalist** web app that helps you figure out which **Ollama models** your machine can run locally.
-
 ![Main view](public/screenshot-main.png)
+
+## Run It or Pay Altman?
+
+Every time you hit that ChatGPT API, somewhere a tech CEO buys another yacht. This app helps you figure out if your machine can run LLMs locally so you can:
+
+- Keep your data on your machine (not training someone else's model)
+- Stop paying per token like it's a parking meter
+- Feel smug at dinner parties when you mention "running models locally"
+- Actually use AI when your WiFi is down
+
+If your RAM can't handle it... well, Altman, Amodei, Pichai, and the gang will happily take your money.
 
 ## Features
 
