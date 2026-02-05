@@ -68,7 +68,7 @@ ollama serve
 ## Tech Stack
 
 - Vite + React + TypeScript
-- Neo-brutalist CSS (no framework)
+- Custom CSS (no framework)
 - Bungee + IBM Plex Sans fonts
 
 ## License

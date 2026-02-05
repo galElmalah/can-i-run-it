@@ -211,9 +211,6 @@ export default function App() {
           Click a model to see all variants and detailed memory estimates.
         </p>
         <div className="badgeRow" aria-label="Project badges">
-          <span className="badge" data-tone="pink">
-            Neo-brutal
-          </span>
           <label className="ramBadge" data-tone="green">
             <input
               type="number"
