@@ -7,11 +7,6 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
-  
-  # Trigger on push to register the workflow (only on workflow file changes)
-  push:
-    paths:
-      - '.github/workflows/scrape-ollama.yml'
     inputs:
       update_source:
         description: 'Update TypeScript source file'
@@ -23,6 +18,11 @@ on:
         required: false
         default: 'true'
         type: boolean
+  
+  # Trigger on push to register the workflow (only on workflow file changes)
+  push:
+    paths:
+      - '.github/workflows/scrape-ollama.yml'
 
 jobs:
   scrape:
