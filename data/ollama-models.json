@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T10:54:33.241Z",
+  "timestamp": "2026-02-05T14:14:50.560Z",
   "source": "https://ollama.com/library",
   "modelCount": 211,
   "models": [
@@ -367,8 +367,8 @@
         "34b",
         "70b"
       ],
-      "pulls": "4.1M",
-      "pullsNumeric": 4099999.9999999995,
+      "pulls": "4.2M",
+      "pullsNumeric": 4200000,
       "tagCount": 199,
       "updated": "Jul 18, 2024"
     },
@@ -856,19 +856,6 @@
       "updated": "Jun 16, 2025"
     },
     {
-      "slug": "deepscaler",
-      "name": "Deepscaler",
-      "description": "A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.",
-      "capabilities": [],
-      "sizes": [
-        "1.5b"
-      ],
-      "pulls": "1.1M",
-      "pullsNumeric": 1100000,
-      "tagCount": 5,
-      "updated": "Feb 12, 2025"
-    },
-    {
       "slug": "phi4-reasoning",
       "name": "Phi4 Reasoning",
       "description": "Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.",
@@ -880,6 +867,19 @@
       "pullsNumeric": 1100000,
       "tagCount": 9,
       "updated": "May 1, 2025"
+    },
+    {
+      "slug": "deepscaler",
+      "name": "Deepscaler",
+      "description": "A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.",
+      "capabilities": [],
+      "sizes": [
+        "1.5b"
+      ],
+      "pulls": "1.1M",
+      "pullsNumeric": 1100000,
+      "tagCount": 5,
+      "updated": "Feb 12, 2025"
     },
     {
       "slug": "magistral",
@@ -905,8 +905,8 @@
       "sizes": [
         "2.7b"
       ],
-      "pulls": "985.5K",
-      "pullsNumeric": 985500,
+      "pulls": "985.8K",
+      "pullsNumeric": 985800,
       "tagCount": 18,
       "updated": "Jan 6, 2024"
     },
@@ -919,8 +919,8 @@
         "8x7b",
         "8x22b"
       ],
-      "pulls": "969.1K",
-      "pullsNumeric": 969100,
+      "pulls": "969.6K",
+      "pullsNumeric": 969600,
       "tagCount": 70,
       "updated": "Dec 20, 2024"
     },
@@ -933,8 +933,8 @@
         "8b",
         "70b"
       ],
-      "pulls": "936.9K",
-      "pullsNumeric": 936900,
+      "pulls": "937.9K",
+      "pullsNumeric": 937900,
       "tagCount": 53,
       "updated": "May 10, 2024"
     },
@@ -949,8 +949,8 @@
         "2b",
         "8b"
       ],
-      "pulls": "867.3K",
-      "pullsNumeric": 867300,
+      "pulls": "867.8K",
+      "pullsNumeric": 867800,
       "tagCount": 3,
       "updated": "Apr 16, 2025"
     },
@@ -964,8 +964,8 @@
         "360m",
         "1.7b"
       ],
-      "pulls": "859.2K",
-      "pullsNumeric": 859200,
+      "pulls": "860.2K",
+      "pullsNumeric": 860200,
       "tagCount": 94,
       "updated": "Aug 20, 2024"
     },
@@ -979,8 +979,8 @@
       "sizes": [
         "3.8b"
       ],
-      "pulls": "832.3K",
-      "pullsNumeric": 832300,
+      "pulls": "832.9K",
+      "pullsNumeric": 832900,
       "tagCount": 5,
       "updated": "Feb 28, 2025"
     },
@@ -992,8 +992,8 @@
       "sizes": [
         "22b"
       ],
-      "pulls": "765.2K",
-      "pullsNumeric": 765200,
+      "pulls": "765.8K",
+      "pullsNumeric": 765800,
       "tagCount": 17,
       "updated": "Sep 3, 2024"
     },
@@ -1006,8 +1006,8 @@
         "7b",
         "32b"
       ],
-      "pulls": "750.8K",
-      "pullsNumeric": 750800,
+      "pulls": "751.3K",
+      "pullsNumeric": 751300,
       "tagCount": 15,
       "updated": "Apr 4, 2025"
     },
@@ -1022,8 +1022,8 @@
       "sizes": [
         "2b"
       ],
-      "pulls": "711K",
-      "pullsNumeric": 711000,
+      "pulls": "711.5K",
+      "pullsNumeric": 711500,
       "tagCount": 5,
       "updated": "Feb 27, 2025"
     },
@@ -1037,8 +1037,8 @@
       "sizes": [
         "24b"
       ],
-      "pulls": "703.8K",
-      "pullsNumeric": 703800,
+      "pulls": "704.3K",
+      "pullsNumeric": 704300,
       "tagCount": 5,
       "updated": "Jul 4, 2025"
     },
@@ -1050,8 +1050,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "659.6K",
-      "pullsNumeric": 659600,
+      "pulls": "660.3K",
+      "pullsNumeric": 660300,
       "tagCount": 120,
       "updated": "Mar 31, 2024"
     },
@@ -1067,8 +1067,8 @@
         "1b",
         "3b"
       ],
-      "pulls": "646.4K",
-      "pullsNumeric": 646400,
+      "pulls": "647.8K",
+      "pullsNumeric": 647800,
       "tagCount": 17,
       "updated": "Oct 29, 2025"
     },
@@ -1082,8 +1082,8 @@
       "sizes": [
         "35b"
       ],
-      "pulls": "631.3K",
-      "pullsNumeric": 631300,
+      "pulls": "631.9K",
+      "pullsNumeric": 631900,
       "tagCount": 32,
       "updated": "Aug 30, 2024"
     },
@@ -1098,8 +1098,8 @@
         "20b",
         "34b"
       ],
-      "pulls": "613.5K",
-      "pullsNumeric": 613500,
+      "pulls": "614.3K",
+      "pullsNumeric": 614300,
       "tagCount": 162,
       "updated": "Sep 3, 2024"
     },
@@ -1112,8 +1112,8 @@
         "7b",
         "8x22b"
       ],
-      "pulls": "613K",
-      "pullsNumeric": 613000,
+      "pulls": "613.4K",
+      "pullsNumeric": 613400,
       "tagCount": 22,
       "updated": "Apr 16, 2024"
     },
@@ -1126,8 +1126,8 @@
         "1.5b",
         "14b"
       ],
-      "pulls": "598K",
-      "pullsNumeric": 598000,
+      "pulls": "598.5K",
+      "pullsNumeric": 598500,
       "tagCount": 9,
       "updated": "Apr 8, 2025"
     },
@@ -1141,8 +1141,8 @@
       "sizes": [
         "1.8b"
       ],
-      "pulls": "590.4K",
-      "pullsNumeric": 590400,
+      "pulls": "590.7K",
+      "pullsNumeric": 590700,
       "tagCount": 18,
       "updated": "May 7, 2024"
     },
@@ -1157,8 +1157,8 @@
       "sizes": [
         "24b"
       ],
-      "pulls": "571.6K",
-      "pullsNumeric": 571600,
+      "pulls": "572K",
+      "pullsNumeric": 572000,
       "tagCount": 5,
       "updated": "Apr 7, 2025"
     },
@@ -1175,8 +1175,8 @@
         "70b",
         "405b"
       ],
-      "pulls": "554.1K",
-      "pullsNumeric": 554100,
+      "pulls": "554.8K",
+      "pullsNumeric": 554800,
       "tagCount": 65,
       "updated": "Dec 16, 2024"
     },
@@ -1192,8 +1192,8 @@
         "4b",
         "8b"
       ],
-      "pulls": "542.5K",
-      "pullsNumeric": 542500,
+      "pulls": "546.4K",
+      "pullsNumeric": 546400,
       "tagCount": 12,
       "updated": "Sep 23, 2025"
     },
@@ -1207,8 +1207,8 @@
         "9b",
         "34b"
       ],
-      "pulls": "512.1K",
-      "pullsNumeric": 512100,
+      "pulls": "512.8K",
+      "pullsNumeric": 512799.99999999994,
       "tagCount": 174,
       "updated": "May 13, 2024"
     },
@@ -1220,8 +1220,8 @@
       "sizes": [
         "3.8b"
       ],
-      "pulls": "502.8K",
-      "pullsNumeric": 502800,
+      "pulls": "503.2K",
+      "pullsNumeric": 503200,
       "tagCount": 17,
       "updated": "Sep 5, 2024"
     },
@@ -1234,8 +1234,8 @@
         "7b",
         "141b"
       ],
-      "pulls": "494K",
-      "pullsNumeric": 494000,
+      "pulls": "494.6K",
+      "pullsNumeric": 494600,
       "tagCount": 40,
       "updated": "Apr 16, 2024"
     },
@@ -1249,8 +1249,8 @@
       "sizes": [
         "123b"
       ],
-      "pulls": "481.4K",
-      "pullsNumeric": 481400,
+      "pulls": "482K",
+      "pullsNumeric": 482000,
       "tagCount": 32,
       "updated": "Nov 22, 2024"
     },
@@ -1264,8 +1264,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "478.3K",
-      "pullsNumeric": 478300,
+      "pulls": "478.7K",
+      "pullsNumeric": 478700,
       "tagCount": 17,
       "updated": "Dec 13, 2023"
     },
@@ -1279,8 +1279,8 @@
       "sizes": [
         "300m"
       ],
-      "pulls": "477.5K",
-      "pullsNumeric": 477500,
+      "pulls": "478.1K",
+      "pullsNumeric": 478100,
       "tagCount": 5,
       "updated": "Sep 9, 2025"
     },
@@ -1294,8 +1294,8 @@
         "13b",
         "30b"
       ],
-      "pulls": "472.8K",
-      "pullsNumeric": 472800,
+      "pulls": "473.5K",
+      "pullsNumeric": 473500,
       "tagCount": 49,
       "updated": "Oct 28, 2023"
     },
@@ -1309,8 +1309,8 @@
         "7.8b",
         "32b"
       ],
-      "pulls": "444.4K",
-      "pullsNumeric": 444400,
+      "pulls": "444.8K",
+      "pullsNumeric": 444800,
       "tagCount": 13,
       "updated": "Mar 19, 2025"
     },
@@ -1325,8 +1325,8 @@
         "7b",
         "15b"
       ],
-      "pulls": "431.3K",
-      "pullsNumeric": 431300,
+      "pulls": "432.1K",
+      "pullsNumeric": 432100,
       "tagCount": 100,
       "updated": "Oct 24, 2023"
     },
@@ -1339,8 +1339,8 @@
         "7b",
         "13b"
       ],
-      "pulls": "424.7K",
-      "pullsNumeric": 424700,
+      "pulls": "425.3K",
+      "pullsNumeric": 425300,
       "tagCount": 63,
       "updated": "Oct 29, 2023"
     },
@@ -1354,8 +1354,8 @@
       "sizes": [
         "278m"
       ],
-      "pulls": "418.9K",
-      "pullsNumeric": 418900,
+      "pulls": "419.8K",
+      "pullsNumeric": 419800,
       "tagCount": 3,
       "updated": "Aug 7, 2024"
     },
@@ -1368,8 +1368,8 @@
         "7b",
         "67b"
       ],
-      "pulls": "416.8K",
-      "pullsNumeric": 416800,
+      "pulls": "417.4K",
+      "pullsNumeric": 417400,
       "tagCount": 64,
       "updated": "Dec 11, 2023"
     },
@@ -1383,8 +1383,8 @@
         "40b",
         "180b"
       ],
-      "pulls": "415.4K",
-      "pullsNumeric": 415400,
+      "pulls": "416K",
+      "pullsNumeric": 416000,
       "tagCount": 38,
       "updated": "Oct 26, 2023"
     },
@@ -1396,8 +1396,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "411.1K",
-      "pullsNumeric": 411100,
+      "pulls": "411.6K",
+      "pullsNumeric": 411600,
       "tagCount": 50,
       "updated": "Jan 10, 2024"
     },
@@ -1410,8 +1410,8 @@
         "16b",
         "236b"
       ],
-      "pulls": "411.1K",
-      "pullsNumeric": 411100,
+      "pulls": "411.6K",
+      "pullsNumeric": 411600,
       "tagCount": 34,
       "updated": "Jun 22, 2024"
     },
@@ -1425,8 +1425,8 @@
         "13b",
         "33b"
       ],
-      "pulls": "408.4K",
-      "pullsNumeric": 408400,
+      "pulls": "409.2K",
+      "pullsNumeric": 409200,
       "tagCount": 111,
       "updated": "Oct 28, 2023"
     },
@@ -1436,8 +1436,8 @@
       "description": "OpenHermes 2.5 is a 7B model fine-tuned by Teknium on Mistral with fully open datasets.",
       "capabilities": [],
       "sizes": [],
-      "pulls": "389.3K",
-      "pullsNumeric": 389300,
+      "pulls": "389.7K",
+      "pullsNumeric": 389700,
       "tagCount": 35,
       "updated": "Dec 29, 2023"
     },
@@ -1449,8 +1449,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "388.6K",
-      "pullsNumeric": 388600,
+      "pulls": "389.1K",
+      "pullsNumeric": 389100,
       "tagCount": 30,
       "updated": "Jun 24, 2024"
     },
@@ -1463,8 +1463,8 @@
         "1.5b",
         "8b"
       ],
-      "pulls": "379.4K",
-      "pullsNumeric": 379400,
+      "pulls": "379.8K",
+      "pullsNumeric": 379800,
       "tagCount": 9,
       "updated": "Nov 18, 2024"
     },
@@ -1476,8 +1476,8 @@
       "sizes": [
         "9b"
       ],
-      "pulls": "377.6K",
-      "pullsNumeric": 377600,
+      "pulls": "378.2K",
+      "pullsNumeric": 378200,
       "tagCount": 32,
       "updated": "Jul 9, 2024"
     },
@@ -1491,8 +1491,8 @@
         "7b",
         "72b"
       ],
-      "pulls": "376.4K",
-      "pullsNumeric": 376400,
+      "pulls": "377K",
+      "pullsNumeric": 377000,
       "tagCount": 52,
       "updated": "Aug 30, 2024"
     },
@@ -1505,8 +1505,8 @@
         "8b",
         "35b"
       ],
-      "pulls": "370K",
-      "pullsNumeric": 370000,
+      "pulls": "370.6K",
+      "pullsNumeric": 370600,
       "tagCount": 33,
       "updated": "May 23, 2024"
     },
@@ -1523,8 +1523,8 @@
         "8b",
         "14b"
       ],
-      "pulls": "366.1K",
-      "pullsNumeric": 366100,
+      "pulls": "366.9K",
+      "pullsNumeric": 366900,
       "tagCount": 16,
       "updated": "Dec 13, 2025"
     },
@@ -1537,8 +1537,8 @@
         "7b",
         "13b"
       ],
-      "pulls": "365.6K",
-      "pullsNumeric": 365600,
+      "pulls": "366.2K",
+      "pullsNumeric": 366200,
       "tagCount": 35,
       "updated": "Oct 28, 2023"
     },
@@ -1550,8 +1550,8 @@
       "sizes": [
         "3b"
       ],
-      "pulls": "358.6K",
-      "pullsNumeric": 358600,
+      "pulls": "359.2K",
+      "pullsNumeric": 359200,
       "tagCount": 36,
       "updated": "Mar 26, 2024"
     },
@@ -1563,8 +1563,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "355.8K",
-      "pullsNumeric": 355800,
+      "pulls": "356.3K",
+      "pullsNumeric": 356300,
       "tagCount": 50,
       "updated": "Dec 20, 2023"
     },
@@ -1577,8 +1577,8 @@
         "10.7b",
         "34b"
       ],
-      "pulls": "352.5K",
-      "pullsNumeric": 352500,
+      "pulls": "353.1K",
+      "pullsNumeric": 353100,
       "tagCount": 33,
       "updated": "Jan 2, 2024"
     },
@@ -1590,8 +1590,8 @@
       "sizes": [
         "33b"
       ],
-      "pulls": "347K",
-      "pullsNumeric": 347000,
+      "pulls": "347.6K",
+      "pullsNumeric": 347600,
       "tagCount": 67,
       "updated": "Jan 5, 2024"
     },
@@ -1604,8 +1604,8 @@
         "7b",
         "15b"
       ],
-      "pulls": "346K",
-      "pullsNumeric": 346000,
+      "pulls": "346.7K",
+      "pullsNumeric": 346700,
       "tagCount": 48,
       "updated": "Feb 1, 2024"
     },
@@ -1618,8 +1618,8 @@
         "1.6b",
         "12b"
       ],
-      "pulls": "334.3K",
-      "pullsNumeric": 334300,
+      "pulls": "334.8K",
+      "pullsNumeric": 334800,
       "tagCount": 84,
       "updated": "May 7, 2024"
     },
@@ -1632,8 +1632,8 @@
         "1.5b",
         "9b"
       ],
-      "pulls": "334K",
-      "pullsNumeric": 334000,
+      "pulls": "334.5K",
+      "pullsNumeric": 334500,
       "tagCount": 67,
       "updated": "Sep 11, 2024"
     },
@@ -1648,8 +1648,8 @@
       "sizes": [
         "671b"
       ],
-      "pulls": "333.9K",
-      "pullsNumeric": 333900,
+      "pulls": "334.3K",
+      "pullsNumeric": 334300,
       "tagCount": 8,
       "updated": "Sep 27, 2025"
     },
@@ -1662,8 +1662,8 @@
         "8b",
         "70b"
       ],
-      "pulls": "331.7K",
-      "pullsNumeric": 331700,
+      "pulls": "332.3K",
+      "pullsNumeric": 332300,
       "tagCount": 35,
       "updated": "May 10, 2024"
     },
@@ -1677,8 +1677,8 @@
       "sizes": [
         "104b"
       ],
-      "pulls": "330.7K",
-      "pullsNumeric": 330700,
+      "pulls": "331.1K",
+      "pullsNumeric": 331100,
       "tagCount": 21,
       "updated": "Aug 31, 2024"
     },
@@ -1693,8 +1693,8 @@
         "2b",
         "8b"
       ],
-      "pulls": "329.3K",
-      "pullsNumeric": 329300,
+      "pulls": "329.9K",
+      "pullsNumeric": 329900,
       "tagCount": 33,
       "updated": "Nov 19, 2024"
     },
@@ -1709,8 +1709,8 @@
         "2b",
         "8b"
       ],
-      "pulls": "328.3K",
-      "pullsNumeric": 328300,
+      "pulls": "328.9K",
+      "pullsNumeric": 328900,
       "tagCount": 33,
       "updated": "Jan 17, 2025"
     },
@@ -1724,8 +1724,8 @@
         "13b",
         "70b"
       ],
-      "pulls": "319.1K",
-      "pullsNumeric": 319100,
+      "pulls": "319.8K",
+      "pullsNumeric": 319800,
       "tagCount": 64,
       "updated": "Dec 19, 2023"
     },
@@ -1738,8 +1738,8 @@
         "7b",
         "15b"
       ],
-      "pulls": "318.5K",
-      "pullsNumeric": 318500,
+      "pulls": "319.1K",
+      "pullsNumeric": 319100,
       "tagCount": 35,
       "updated": "Apr 9, 2024"
     },
@@ -1752,8 +1752,8 @@
         "8b",
         "70b"
       ],
-      "pulls": "317.8K",
-      "pullsNumeric": 317800,
+      "pulls": "318.4K",
+      "pullsNumeric": 318400,
       "tagCount": 35,
       "updated": "May 5, 2024"
     },
@@ -1765,8 +1765,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "314.3K",
-      "pullsNumeric": 314300,
+      "pulls": "314.9K",
+      "pullsNumeric": 314900,
       "tagCount": 49,
       "updated": "Oct 15, 2023"
     },
@@ -1778,8 +1778,8 @@
       "sizes": [
         "9b"
       ],
-      "pulls": "313.6K",
-      "pullsNumeric": 313600,
+      "pulls": "314K",
+      "pullsNumeric": 314000,
       "tagCount": 17,
       "updated": "Jul 9, 2024"
     },
@@ -1791,8 +1791,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "312.2K",
-      "pullsNumeric": 312200,
+      "pulls": "312.6K",
+      "pullsNumeric": 312600,
       "tagCount": 17,
       "updated": "Oct 11, 2023"
     },
@@ -1807,8 +1807,8 @@
         "7b",
         "20b"
       ],
-      "pulls": "308K",
-      "pullsNumeric": 308000,
+      "pulls": "308.7K",
+      "pullsNumeric": 308700,
       "tagCount": 65,
       "updated": "Aug 16, 2024"
     },
@@ -1820,8 +1820,8 @@
       "sizes": [
         "1.1b"
       ],
-      "pulls": "306.9K",
-      "pullsNumeric": 306900,
+      "pulls": "307.2K",
+      "pullsNumeric": 307200,
       "tagCount": 18,
       "updated": "Jan 30, 2024"
     },
@@ -1835,8 +1835,8 @@
       "sizes": [
         "8b"
       ],
-      "pulls": "306K",
-      "pullsNumeric": 306000,
+      "pulls": "306.1K",
+      "pullsNumeric": 306100,
       "tagCount": 6,
       "updated": "Dec 12, 2025"
     },
@@ -1851,8 +1851,8 @@
         "8b",
         "70b"
       ],
-      "pulls": "304.5K",
-      "pullsNumeric": 304500,
+      "pulls": "305.1K",
+      "pullsNumeric": 305100,
       "tagCount": 33,
       "updated": "Jul 25, 2024"
     },
@@ -1867,8 +1867,8 @@
       "sizes": [
         "80b"
       ],
-      "pulls": "303.9K",
-      "pullsNumeric": 303900,
+      "pulls": "304.3K",
+      "pullsNumeric": 304300,
       "tagCount": 10,
       "updated": "Dec 9, 2025"
     },
@@ -1880,8 +1880,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "301.7K",
-      "pullsNumeric": 301700,
+      "pulls": "302.2K",
+      "pullsNumeric": 302200,
       "tagCount": 36,
       "updated": "Apr 2, 2024"
     },
@@ -1893,8 +1893,8 @@
       "sizes": [
         "34b"
       ],
-      "pulls": "300.3K",
-      "pullsNumeric": 300300,
+      "pulls": "300.8K",
+      "pullsNumeric": 300800,
       "tagCount": 49,
       "updated": "Dec 28, 2023"
     },
@@ -1907,8 +1907,8 @@
         "1b",
         "8b"
       ],
-      "pulls": "300.2K",
-      "pullsNumeric": 300200,
+      "pulls": "300.8K",
+      "pullsNumeric": 300800,
       "tagCount": 33,
       "updated": "Oct 11, 2024"
     },
@@ -1920,8 +1920,8 @@
       "sizes": [
         "10.7b"
       ],
-      "pulls": "300K",
-      "pullsNumeric": 300000,
+      "pulls": "300.4K",
+      "pullsNumeric": 300400,
       "tagCount": 32,
       "updated": "Dec 18, 2023"
     },
@@ -1934,8 +1934,8 @@
         "7b",
         "13b"
       ],
-      "pulls": "297.1K",
-      "pullsNumeric": 297100,
+      "pulls": "297.7K",
+      "pullsNumeric": 297700,
       "tagCount": 80,
       "updated": "Nov 4, 2023"
     },
@@ -1950,8 +1950,8 @@
         "8b",
         "32b"
       ],
-      "pulls": "293.3K",
-      "pullsNumeric": 293300,
+      "pulls": "293.9K",
+      "pullsNumeric": 293900,
       "tagCount": 33,
       "updated": "Oct 25, 2024"
     },
@@ -1964,8 +1964,8 @@
         "7b",
         "13b"
       ],
-      "pulls": "290.4K",
-      "pullsNumeric": 290400,
+      "pulls": "291.1K",
+      "pullsNumeric": 291100,
       "tagCount": 67,
       "updated": "Nov 4, 2023"
     },
@@ -1980,8 +1980,8 @@
         "1b",
         "3b"
       ],
-      "pulls": "290K",
-      "pullsNumeric": 290000,
+      "pulls": "290.6K",
+      "pullsNumeric": 290600,
       "tagCount": 33,
       "updated": "Nov 19, 2024"
     },
@@ -1994,8 +1994,8 @@
         "7b",
         "13b"
       ],
-      "pulls": "277.3K",
-      "pullsNumeric": 277300,
+      "pulls": "277.9K",
+      "pullsNumeric": 277900,
       "tagCount": 33,
       "updated": "Nov 22, 2023"
     },
@@ -2009,8 +2009,8 @@
         "13b",
         "70b"
       ],
-      "pulls": "270.3K",
-      "pullsNumeric": 270300,
+      "pulls": "271K",
+      "pullsNumeric": 271000,
       "tagCount": 49,
       "updated": "Oct 29, 2023"
     },
@@ -2023,8 +2023,8 @@
         "0.5b",
         "1.5b"
       ],
-      "pulls": "264.8K",
-      "pullsNumeric": 264800,
+      "pulls": "265.2K",
+      "pullsNumeric": 265200,
       "tagCount": 33,
       "updated": "Sep 11, 2024"
     },
@@ -2038,8 +2038,8 @@
         "9b",
         "27b"
       ],
-      "pulls": "260.2K",
-      "pullsNumeric": 260200,
+      "pulls": "261K",
+      "pullsNumeric": 261000,
       "tagCount": 49,
       "updated": "Oct 11, 2024"
     },
@@ -2049,8 +2049,8 @@
       "description": "An expansion of Llama 2 that specializes in integrating both general language understanding and domain-specific knowledge, particularly in programming and mathematics.",
       "capabilities": [],
       "sizes": [],
-      "pulls": "257K",
-      "pullsNumeric": 257000,
+      "pulls": "257.4K",
+      "pullsNumeric": 257399.99999999997,
       "tagCount": 33,
       "updated": "Jan 9, 2024"
     },
@@ -2062,8 +2062,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "254.1K",
-      "pullsNumeric": 254100,
+      "pulls": "254.6K",
+      "pullsNumeric": 254600,
       "tagCount": 33,
       "updated": "Nov 4, 2023"
     },
@@ -2075,8 +2075,8 @@
       "sizes": [
         "13b"
       ],
-      "pulls": "251.5K",
-      "pullsNumeric": 251500,
+      "pulls": "252K",
+      "pullsNumeric": 252000,
       "tagCount": 32,
       "updated": "Jan 17, 2024"
     },
@@ -2089,8 +2089,8 @@
         "7b",
         "70b"
       ],
-      "pulls": "248.6K",
-      "pullsNumeric": 248600,
+      "pulls": "249.2K",
+      "pullsNumeric": 249200,
       "tagCount": 22,
       "updated": "Dec 5, 2023"
     },
@@ -2100,8 +2100,8 @@
       "description": "General use model based on Llama 2.",
       "capabilities": [],
       "sizes": [],
-      "pulls": "248.5K",
-      "pullsNumeric": 248500,
+      "pulls": "248.9K",
+      "pullsNumeric": 248900,
       "tagCount": 73,
       "updated": "Oct 30, 2023"
     },
@@ -2116,8 +2116,8 @@
         "2b",
         "8b"
       ],
-      "pulls": "247.6K",
-      "pullsNumeric": 247600,
+      "pulls": "248K",
+      "pullsNumeric": 248000,
       "tagCount": 9,
       "updated": "Feb 26, 2025"
     },
@@ -2129,8 +2129,8 @@
       "sizes": [
         "70b"
       ],
-      "pulls": "245.2K",
-      "pullsNumeric": 245200,
+      "pulls": "245.6K",
+      "pullsNumeric": 245600,
       "tagCount": 17,
       "updated": "Sep 9, 2024"
     },
@@ -2144,8 +2144,8 @@
       "sizes": [
         "568m"
       ],
-      "pulls": "238.8K",
-      "pullsNumeric": 238800,
+      "pulls": "239K",
+      "pullsNumeric": 239000,
       "tagCount": 3,
       "updated": "Dec 4, 2024"
     },
@@ -2159,8 +2159,8 @@
       "sizes": [
         "4b"
       ],
-      "pulls": "237.8K",
-      "pullsNumeric": 237800,
+      "pulls": "238.2K",
+      "pullsNumeric": 238200,
       "tagCount": 17,
       "updated": "Sep 18, 2024"
     },
@@ -2174,8 +2174,8 @@
         "7.8b",
         "32b"
       ],
-      "pulls": "229.6K",
-      "pullsNumeric": 229600,
+      "pulls": "229.9K",
+      "pullsNumeric": 229900,
       "tagCount": 13,
       "updated": "Dec 10, 2024"
     },
@@ -2189,8 +2189,8 @@
       "sizes": [
         "72b"
       ],
-      "pulls": "225.6K",
-      "pullsNumeric": 225600,
+      "pulls": "226K",
+      "pullsNumeric": 226000,
       "tagCount": 17,
       "updated": "Nov 15, 2024"
     },
@@ -2202,8 +2202,8 @@
       "sizes": [
         "13b"
       ],
-      "pulls": "223.9K",
-      "pullsNumeric": 223900,
+      "pulls": "224.3K",
+      "pullsNumeric": 224300,
       "tagCount": 18,
       "updated": "Oct 28, 2023"
     },
@@ -2217,8 +2217,8 @@
       "sizes": [
         "70b"
       ],
-      "pulls": "222.8K",
-      "pullsNumeric": 222800,
+      "pulls": "223.2K",
+      "pullsNumeric": 223200,
       "tagCount": 17,
       "updated": "Oct 16, 2024"
     },
@@ -2231,8 +2231,8 @@
         "70b",
         "671b"
       ],
-      "pulls": "221.7K",
-      "pullsNumeric": 221700,
+      "pulls": "221.9K",
+      "pullsNumeric": 221900,
       "tagCount": 9,
       "updated": "Feb 21, 2025"
     },
@@ -2244,8 +2244,8 @@
       "sizes": [
         "8x7b"
       ],
-      "pulls": "203.4K",
-      "pullsNumeric": 203400,
+      "pulls": "203.7K",
+      "pullsNumeric": 203700,
       "tagCount": 18,
       "updated": "Dec 20, 2024"
     },
@@ -2257,8 +2257,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "202.8K",
-      "pullsNumeric": 202800,
+      "pulls": "203.2K",
+      "pullsNumeric": 203200,
       "tagCount": 17,
       "updated": "Oct 29, 2023"
     },
@@ -2273,8 +2273,8 @@
         "30m",
         "278m"
       ],
-      "pulls": "194.4K",
-      "pullsNumeric": 194400,
+      "pulls": "194.7K",
+      "pullsNumeric": 194700,
       "tagCount": 6,
       "updated": "Dec 18, 2024"
     },
@@ -2288,23 +2288,10 @@
       "sizes": [
         "335m"
       ],
-      "pulls": "189.8K",
-      "pullsNumeric": 189800,
+      "pulls": "190K",
+      "pullsNumeric": 190000,
       "tagCount": 3,
       "updated": "Aug 7, 2024"
-    },
-    {
-      "slug": "codeup",
-      "name": "Codeup",
-      "description": "Great code generation model based on Llama2.",
-      "capabilities": [],
-      "sizes": [
-        "13b"
-      ],
-      "pulls": "188.5K",
-      "pullsNumeric": 188500,
-      "tagCount": 19,
-      "updated": "Oct 29, 2023"
     },
     {
       "slug": "translategemma",
@@ -2318,10 +2305,23 @@
         "12b",
         "27b"
       ],
-      "pulls": "186.9K",
-      "pullsNumeric": 186900,
+      "pulls": "188.9K",
+      "pullsNumeric": 188900,
       "tagCount": 13,
       "updated": "Jan 16, 2026"
+    },
+    {
+      "slug": "codeup",
+      "name": "Codeup",
+      "description": "Great code generation model based on Llama2.",
+      "capabilities": [],
+      "sizes": [
+        "13b"
+      ],
+      "pulls": "188.9K",
+      "pullsNumeric": 188900,
+      "tagCount": 19,
+      "updated": "Oct 29, 2023"
     },
     {
       "slug": "llava-phi3",
@@ -2333,8 +2333,8 @@
       "sizes": [
         "3.8b"
       ],
-      "pulls": "186.6K",
-      "pullsNumeric": 186600,
+      "pulls": "186.7K",
+      "pullsNumeric": 186700,
       "tagCount": 4,
       "updated": "May 7, 2024"
     },
@@ -2347,8 +2347,8 @@
         "8b",
         "70b"
       ],
-      "pulls": "185K",
-      "pullsNumeric": 185000,
+      "pulls": "185.4K",
+      "pullsNumeric": 185400,
       "tagCount": 9,
       "updated": "Dec 21, 2024"
     },
@@ -2360,8 +2360,8 @@
       "sizes": [
         "13b"
       ],
-      "pulls": "184.3K",
-      "pullsNumeric": 184300,
+      "pulls": "184.6K",
+      "pullsNumeric": 184600,
       "tagCount": 18,
       "updated": "Dec 27, 2023"
     },
@@ -2373,8 +2373,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "182.2K",
-      "pullsNumeric": 182200,
+      "pulls": "182.5K",
+      "pullsNumeric": 182500,
       "tagCount": 17,
       "updated": "Jul 16, 2024"
     },
@@ -2386,8 +2386,8 @@
       "sizes": [
         "22b"
       ],
-      "pulls": "178.3K",
-      "pullsNumeric": 178300,
+      "pulls": "178.7K",
+      "pullsNumeric": 178700,
       "tagCount": 18,
       "updated": "Sep 18, 2024"
     },
@@ -2399,8 +2399,8 @@
       "sizes": [
         "3b"
       ],
-      "pulls": "174.9K",
-      "pullsNumeric": 174900,
+      "pulls": "175.2K",
+      "pullsNumeric": 175200,
       "tagCount": 17,
       "updated": "Dec 27, 2023"
     },
@@ -2412,8 +2412,8 @@
       "sizes": [
         "132b"
       ],
-      "pulls": "174.9K",
-      "pullsNumeric": 174900,
+      "pulls": "175K",
+      "pullsNumeric": 175000,
       "tagCount": 7,
       "updated": "Apr 16, 2024"
     },
@@ -2425,8 +2425,8 @@
       "sizes": [
         "11b"
       ],
-      "pulls": "174.5K",
-      "pullsNumeric": 174500,
+      "pulls": "174.8K",
+      "pullsNumeric": 174800,
       "tagCount": 17,
       "updated": "May 14, 2024"
     },
@@ -2438,8 +2438,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "174.2K",
-      "pullsNumeric": 174200,
+      "pulls": "174.6K",
+      "pullsNumeric": 174600,
       "tagCount": 18,
       "updated": "Dec 5, 2023"
     },
@@ -2451,8 +2451,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "170.8K",
-      "pullsNumeric": 170800,
+      "pulls": "171.2K",
+      "pullsNumeric": 171200,
       "tagCount": 17,
       "updated": "Jan 29, 2024"
     },
@@ -2464,23 +2464,10 @@
       "sizes": [
         "120b"
       ],
-      "pulls": "169.7K",
-      "pullsNumeric": 169700,
+      "pulls": "170.1K",
+      "pullsNumeric": 170100,
       "tagCount": 19,
       "updated": "Jan 11, 2024"
-    },
-    {
-      "slug": "nuextract",
-      "name": "Nuextract",
-      "description": "A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.",
-      "capabilities": [],
-      "sizes": [
-        "3.8b"
-      ],
-      "pulls": "168.6K",
-      "pullsNumeric": 168600,
-      "tagCount": 17,
-      "updated": "Jul 22, 2024"
     },
     {
       "slug": "mistrallite",
@@ -2490,10 +2477,23 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "168.5K",
-      "pullsNumeric": 168500,
+      "pulls": "168.8K",
+      "pullsNumeric": 168800,
       "tagCount": 17,
       "updated": "Nov 2, 2023"
+    },
+    {
+      "slug": "nuextract",
+      "name": "Nuextract",
+      "description": "A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.",
+      "capabilities": [],
+      "sizes": [
+        "3.8b"
+      ],
+      "pulls": "168.8K",
+      "pullsNumeric": 168800,
+      "tagCount": 17,
+      "updated": "Jul 22, 2024"
     },
     {
       "slug": "bespoke-minicheck",
@@ -2503,8 +2503,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "167.8K",
-      "pullsNumeric": 167800,
+      "pulls": "168.1K",
+      "pullsNumeric": 168100,
       "tagCount": 17,
       "updated": "Sep 18, 2024"
     },
@@ -2516,8 +2516,8 @@
       "sizes": [
         "13b"
       ],
-      "pulls": "164K",
-      "pullsNumeric": 164000,
+      "pulls": "164.3K",
+      "pullsNumeric": 164300,
       "tagCount": 17,
       "updated": "Oct 28, 2023"
     },
@@ -2529,8 +2529,8 @@
       "sizes": [
         "8x7b"
       ],
-      "pulls": "163.1K",
-      "pullsNumeric": 163100,
+      "pulls": "163.4K",
+      "pullsNumeric": 163400,
       "tagCount": 18,
       "updated": "Dec 29, 2023"
     },
@@ -2542,8 +2542,8 @@
       "sizes": [
         "34b"
       ],
-      "pulls": "162.6K",
-      "pullsNumeric": 162600,
+      "pulls": "162.9K",
+      "pullsNumeric": 162900,
       "tagCount": 16,
       "updated": "Oct 29, 2023"
     },
@@ -2555,8 +2555,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "162.5K",
-      "pullsNumeric": 162500,
+      "pulls": "162.9K",
+      "pullsNumeric": 162900,
       "tagCount": 18,
       "updated": "Dec 29, 2023"
     },
@@ -2570,8 +2570,8 @@
       "sizes": [
         "70b"
       ],
-      "pulls": "160.6K",
-      "pullsNumeric": 160600,
+      "pulls": "160.9K",
+      "pullsNumeric": 160900,
       "tagCount": 17,
       "updated": "Jul 18, 2024"
     },
@@ -2583,8 +2583,8 @@
       "sizes": [
         "13b"
       ],
-      "pulls": "157.4K",
-      "pullsNumeric": 157400,
+      "pulls": "157.7K",
+      "pullsNumeric": 157700,
       "tagCount": 17,
       "updated": "Oct 29, 2023"
     },
@@ -2598,8 +2598,8 @@
       "sizes": [
         "3b"
       ],
-      "pulls": "150.2K",
-      "pullsNumeric": 150200,
+      "pulls": "150.6K",
+      "pullsNumeric": 150600,
       "tagCount": 3,
       "updated": "Nov 19, 2025"
     },
@@ -2609,8 +2609,8 @@
       "description": "A language model created by combining two fine-tuned Llama 2 70B models into one.",
       "capabilities": [],
       "sizes": [],
-      "pulls": "149.3K",
-      "pullsNumeric": 149300,
+      "pulls": "149.5K",
+      "pullsNumeric": 149500,
       "tagCount": 16,
       "updated": "Nov 17, 2023"
     },
@@ -2625,8 +2625,8 @@
       "sizes": [
         "30b"
       ],
-      "pulls": "147.1K",
-      "pullsNumeric": 147100,
+      "pulls": "147.3K",
+      "pullsNumeric": 147300,
       "tagCount": 6,
       "updated": "Dec 16, 2025"
     },
@@ -2638,8 +2638,8 @@
       "sizes": [
         "3b"
       ],
-      "pulls": "142.1K",
-      "pullsNumeric": 142100,
+      "pulls": "142.3K",
+      "pullsNumeric": 142300,
       "tagCount": 5,
       "updated": "Dec 30, 2024"
     },
@@ -2653,23 +2653,10 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "138K",
-      "pullsNumeric": 138000,
+      "pulls": "138.2K",
+      "pullsNumeric": 138200,
       "tagCount": 5,
       "updated": "Jan 16, 2025"
-    },
-    {
-      "slug": "phi4-mini-reasoning",
-      "name": "Phi4 Mini Reasoning",
-      "description": "Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.",
-      "capabilities": [],
-      "sizes": [
-        "3.8b"
-      ],
-      "pulls": "137.3K",
-      "pullsNumeric": 137300,
-      "tagCount": 5,
-      "updated": "May 1, 2025"
     },
     {
       "slug": "glm-4.7-flash",
@@ -2680,10 +2667,23 @@
         "thinking"
       ],
       "sizes": [],
-      "pulls": "136.3K",
-      "pullsNumeric": 136300,
+      "pulls": "137.9K",
+      "pullsNumeric": 137900,
       "tagCount": 4,
       "updated": "Jan 24, 2026"
+    },
+    {
+      "slug": "phi4-mini-reasoning",
+      "name": "Phi4 Mini Reasoning",
+      "description": "Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.",
+      "capabilities": [],
+      "sizes": [
+        "3.8b"
+      ],
+      "pulls": "137.4K",
+      "pullsNumeric": 137400,
+      "tagCount": 5,
+      "updated": "May 1, 2025"
     },
     {
       "slug": "deepseek-v2.5",
@@ -2693,8 +2693,8 @@
       "sizes": [
         "236b"
       ],
-      "pulls": "135.9K",
-      "pullsNumeric": 135900,
+      "pulls": "136K",
+      "pullsNumeric": 136000,
       "tagCount": 7,
       "updated": "Sep 11, 2024"
     },
@@ -2708,8 +2708,8 @@
         "8b",
         "20b"
       ],
-      "pulls": "134.9K",
-      "pullsNumeric": 134900,
+      "pulls": "135.4K",
+      "pullsNumeric": 135400,
       "tagCount": 13,
       "updated": "Dec 4, 2024"
     },
@@ -2724,8 +2724,8 @@
       "sizes": [
         "24b"
       ],
-      "pulls": "128.8K",
-      "pullsNumeric": 128800.00000000001,
+      "pulls": "129.1K",
+      "pullsNumeric": 129100,
       "tagCount": 6,
       "updated": "Dec 13, 2025"
     },
@@ -2738,8 +2738,8 @@
         "2b",
         "8b"
       ],
-      "pulls": "121.9K",
-      "pullsNumeric": 121900,
+      "pulls": "122.3K",
+      "pullsNumeric": 122300,
       "tagCount": 10,
       "updated": "Nov 19, 2024"
     },
@@ -2752,8 +2752,8 @@
         "7b",
         "32b"
       ],
-      "pulls": "121.3K",
-      "pullsNumeric": 121300,
+      "pulls": "121.7K",
+      "pullsNumeric": 121700,
       "tagCount": 15,
       "updated": "Dec 16, 2025"
     },
@@ -2767,8 +2767,8 @@
       "sizes": [
         "111b"
       ],
-      "pulls": "117.2K",
-      "pullsNumeric": 117200,
+      "pulls": "117.4K",
+      "pullsNumeric": 117400,
       "tagCount": 5,
       "updated": "Mar 13, 2025"
     },
@@ -2780,8 +2780,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "106.4K",
-      "pullsNumeric": 106400,
+      "pulls": "106.6K",
+      "pullsNumeric": 106600,
       "tagCount": 5,
       "updated": "Dec 4, 2024"
     },
@@ -2795,8 +2795,8 @@
         "thinking"
       ],
       "sizes": [],
-      "pulls": "97.3K",
-      "pullsNumeric": 97300,
+      "pulls": "97.5K",
+      "pullsNumeric": 97500,
       "tagCount": 1,
       "updated": "Nov 18, 2025"
     },
@@ -2808,8 +2808,8 @@
       "sizes": [
         "40b"
       ],
-      "pulls": "93.1K",
-      "pullsNumeric": 93100,
+      "pulls": "93.3K",
+      "pullsNumeric": 93300,
       "tagCount": 7,
       "updated": "Nov 19, 2023"
     },
@@ -2823,8 +2823,8 @@
       "sizes": [
         "7b"
       ],
-      "pulls": "73.9K",
-      "pullsNumeric": 73900,
+      "pulls": "74.1K",
+      "pullsNumeric": 74100,
       "tagCount": 5,
       "updated": "Feb 28, 2025"
     },
@@ -2838,8 +2838,8 @@
       "sizes": [
         "32b"
       ],
-      "pulls": "71.9K",
-      "pullsNumeric": 71900,
+      "pulls": "72.1K",
+      "pullsNumeric": 72100,
       "tagCount": 10,
       "updated": "Dec 16, 2025"
     },
@@ -2853,8 +2853,8 @@
       "sizes": [
         "123b"
       ],
-      "pulls": "65.5K",
-      "pullsNumeric": 65500,
+      "pulls": "65.6K",
+      "pullsNumeric": 65600,
       "tagCount": 6,
       "updated": "Dec 12, 2025"
     },
@@ -2870,8 +2870,8 @@
         "20b",
         "120b"
       ],
-      "pulls": "59.6K",
-      "pullsNumeric": 59600,
+      "pulls": "59.9K",
+      "pullsNumeric": 59900,
       "tagCount": 3,
       "updated": "Oct 29, 2025"
     },
@@ -2883,8 +2883,8 @@
       "sizes": [
         "671b"
       ],
-      "pulls": "57.9K",
-      "pullsNumeric": 57900,
+      "pulls": "58K",
+      "pullsNumeric": 58000,
       "tagCount": 6,
       "updated": "Nov 21, 2025"
     },
@@ -2897,8 +2897,8 @@
         "thinking"
       ],
       "sizes": [],
-      "pulls": "57.7K",
-      "pullsNumeric": 57700,
+      "pulls": "57.8K",
+      "pullsNumeric": 57800,
       "tagCount": 1,
       "updated": "Oct 15, 2025"
     },
@@ -2912,8 +2912,8 @@
       "sizes": [
         "270m"
       ],
-      "pulls": "56.1K",
-      "pullsNumeric": 56100,
+      "pulls": "56.2K",
+      "pullsNumeric": 56200,
       "tagCount": 4,
       "updated": "Dec 18, 2025"
     },
@@ -2927,8 +2927,8 @@
         "thinking"
       ],
       "sizes": [],
-      "pulls": "51.4K",
-      "pullsNumeric": 51400,
+      "pulls": "51.5K",
+      "pullsNumeric": 51500,
       "tagCount": 2,
       "updated": "Dec 20, 2025"
     },
@@ -2941,10 +2941,23 @@
         "thinking"
       ],
       "sizes": [],
-      "pulls": "49.4K",
-      "pullsNumeric": 49400,
+      "pulls": "49.5K",
+      "pullsNumeric": 49500,
       "tagCount": 1,
       "updated": "Oct 28, 2025"
+    },
+    {
+      "slug": "lfm2.5-thinking",
+      "name": "Lfm2.5 Thinking",
+      "description": "LFM2.5 is a new family of hybrid models designed for on-device deployment.",
+      "capabilities": [],
+      "sizes": [
+        "1.2b"
+      ],
+      "pulls": "35.9K",
+      "pullsNumeric": 35900,
+      "tagCount": 5,
+      "updated": "Jan 20, 2026"
     },
     {
       "slug": "kimi-k2",
@@ -2960,19 +2973,6 @@
       "updated": "Sep 26, 2025"
     },
     {
-      "slug": "lfm2.5-thinking",
-      "name": "Lfm2.5 Thinking",
-      "description": "LFM2.5 is a new family of hybrid models designed for on-device deployment.",
-      "capabilities": [],
-      "sizes": [
-        "1.2b"
-      ],
-      "pulls": "35.4K",
-      "pullsNumeric": 35400,
-      "tagCount": 5,
-      "updated": "Jan 20, 2026"
-    },
-    {
       "slug": "glm-4.7",
       "name": "Glm 4.7",
       "description": "Advancing the Coding Capability",
@@ -2981,8 +2981,8 @@
         "thinking"
       ],
       "sizes": [],
-      "pulls": "34.1K",
-      "pullsNumeric": 34100,
+      "pulls": "34.3K",
+      "pullsNumeric": 34300,
       "tagCount": 1,
       "updated": "Dec 23, 2025"
     },
@@ -2996,8 +2996,8 @@
         "thinking"
       ],
       "sizes": [],
-      "pulls": "32.7K",
-      "pullsNumeric": 32700.000000000004,
+      "pulls": "33.2K",
+      "pullsNumeric": 33200,
       "tagCount": 1,
       "updated": "Jan 27, 2026"
     },
@@ -3009,8 +3009,8 @@
         "embedding"
       ],
       "sizes": [],
-      "pulls": "29.2K",
-      "pullsNumeric": 29200,
+      "pulls": "29.3K",
+      "pullsNumeric": 29300,
       "tagCount": 1,
       "updated": "Dec 10, 2025"
     },
@@ -3037,8 +3037,8 @@
         "thinking"
       ],
       "sizes": [],
-      "pulls": "25.4K",
-      "pullsNumeric": 25400,
+      "pulls": "25.5K",
+      "pullsNumeric": 25500,
       "tagCount": 1,
       "updated": "Dec 19, 2025"
     },
@@ -3077,7 +3077,7 @@
         "vision"
       ],
       "sizes": [],
-      "pulls": "5,499",
+      "pulls": "5,734",
       "pullsNumeric": 5,
       "tagCount": 3,
       "updated": "Feb 2, 2026"
@@ -3090,8 +3090,8 @@
         "tools"
       ],
       "sizes": [],
-      "pulls": "4,405",
-      "pullsNumeric": 4,
+      "pulls": "5,060",
+      "pullsNumeric": 5,
       "tagCount": 3,
       "updated": "Feb 4, 2026"
     }
