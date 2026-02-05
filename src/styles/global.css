@@ -9,6 +9,12 @@ body {
   height: 100%;
 }
 
+button {
+  color: inherit;
+  font: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
 body {
   margin: 0;
   color: var(--ink);
